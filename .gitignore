@@ -1,3 +1,6 @@
+#Config
+config.py
+
 # Large Files
 data/ratings.csv
 
